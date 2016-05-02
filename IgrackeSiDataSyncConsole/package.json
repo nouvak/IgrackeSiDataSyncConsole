@@ -1,0 +1,13 @@
+{
+  "name": "igracke-si-data-sync-console",
+  "version": "0.0.0",
+  "description": "IgrackeSiDataSyncConsole",
+  "main": "app.js",
+  "author": {
+    "name": "marko",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.2.1"
+  }
+}
